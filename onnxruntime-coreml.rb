@@ -1,4 +1,4 @@
-class Onnxruntime < Formula
+class Onnxruntime_coreml < Formula
   desc "Cross-platform, high performance scoring engine for ML models"
   homepage "https://github.com/microsoft/onnxruntime"
   url "https://github.com/microsoft/onnxruntime.git",
